@@ -50,7 +50,8 @@ div.box-in-bot  {
 ul.elements-below   {
     display:flex;
     flex-direction: column;
-    list-style: none;
+    list-style-type: none;
+    list-style-image: none;
     margin: 0;
     padding: 0;
 }
